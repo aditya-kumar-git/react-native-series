@@ -1,1 +1,1 @@
-Native App to get series info.
+Native App to get information about your favourite TV series.
