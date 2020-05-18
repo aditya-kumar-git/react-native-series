@@ -72,7 +72,8 @@ class FullShowInfo extends React.Component {
 											</Text>
 										)
 									}}
-									keyExtractor={(x, y) => {
+									keyE
+									xtractor={(x, y) => {
 										return "KeyGenres-" + y
 									}}
 									ListFooterComponent={() => {
