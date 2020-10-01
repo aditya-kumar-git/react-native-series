@@ -1,1 +1,2 @@
-Native App to get information about your favourite TV series.
+## Visit PlayStore
+https://play.google.com/store/apps/details?id=com.elektrogames.news
